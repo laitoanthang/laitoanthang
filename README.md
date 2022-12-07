@@ -1,6 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Thang Lai. I am majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
+
 I'm looking forward to having more working experience in the field of Data.
+
 I'm still improving my knowledge every day as well as my practical skills for data jobs.<br>
 ## 📫 How to reach me: 
 
