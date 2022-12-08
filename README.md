@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <a href="#" target="_blank">
   <img src="thanglaids.svg" width="1200" alt="thanglai-official" />
 </a>
@@ -8,23 +6,16 @@
 A litte bit about myself. I am majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
 I'm looking forward to having more working experience in the field of Data.
 I'm still improving my knowledge every day as well as my practical skills for data jobs. -->
-=======
+
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Thang Lai. I am majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
+A little bit about myself. I am currently majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
 
 I'm looking forward to having more working experience in the field of Data.
 
 I'm still improving my knowledge every day as well as my practical skills for data jobs.<br>
-## 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thang-lai-b77980220/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/laitoanthang/) [![Facebook](https://github.com/laitoanthang/laitoanthang/blob/main/Facebook-logo-3d-button-social-media-png-3.png?raw=true) Facebook](https://www.facebook.com/laitoanthang.terry) 
->>>>>>> 4c9d7371e7fd4c201f1cde936d8ff8c2872e717d
-
-
 
 <h2 align="center"> 📫 How to reach me: 
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/laitoanthang.terry" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanglai-facebook" />
@@ -44,8 +35,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
 </div>
 
 <br>
-
-<!-- ![Thang's github stats](https://github-readme-stats.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
+<h2 align="center">  💗Research Projects💗
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -127,12 +117,9 @@ I'm still improving my knowledge every day as well as my practical skills for da
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
-<<<<<<< HEAD
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <a href="#" target="_blank">
   <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
 </a>
-=======
->>>>>>> 4c9d7371e7fd4c201f1cde936d8ff8c2872e717d
