@@ -2,10 +2,6 @@
   <img src="thanglaids.svg" width="1200" alt="thanglai-official" />
 </a>
 
-<!-- 
-A litte bit about myself. I am majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
-I'm looking forward to having more working experience in the field of Data.
-I'm still improving my knowledge every day as well as my practical skills for data jobs. -->
 
 ### WELCOME TO MY PAGE 👋👋👋
 A little bit about myself. I am currently majoring in Data Science at the VNU-HCM, University of Science. I am interested in the following topics: Data Science, Machine Learning and Deep Learning.
@@ -13,6 +9,10 @@ A little bit about myself. I am currently majoring in Data Science at the VNU-HC
 I'm looking forward to having more working experience in the field of Data.
 
 I'm still improving my knowledge every day as well as my practical skills for data jobs.<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laitoanthang&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitoanthang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center"> 📫 How to reach me: 
 
@@ -124,3 +124,4 @@ I'm still improving my knowledge every day as well as my practical skills for da
 <a href="#" target="_blank">
   <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
 </a>
+
