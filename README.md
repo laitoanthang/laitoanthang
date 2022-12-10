@@ -15,6 +15,7 @@ I'm looking forward to having more working experience in the field of Data.
 I'm still improving my knowledge every day as well as my practical skills for data jobs.<br>
 
 <h2 align="center"> 📫 How to reach me: 
+
 <br>
 <div align="center">
   <a href="https://www.facebook.com/laitoanthang.terry" target="blank">
