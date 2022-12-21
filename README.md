@@ -10,12 +10,7 @@ I'm looking forward to having more working experience in the field of Data.
 
 I'm still improving my knowledge every day as well as my practical skills for data jobs.<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laitoanthang&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitoanthang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center"> 📫 How to reach me: 
-
 <br>
 <div align="center">
   <a href="https://www.facebook.com/laitoanthang.terry" target="blank">
@@ -35,11 +30,19 @@ I'm still improving my knowledge every day as well as my practical skills for da
   </a>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://user-images.githubusercontent.com/89634616/208962696-e93b34a7-7b12-4e08-9c91-06eabd7d5fa6.png" width="200" height="150"/>
+</a>
+
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laitoanthang&show_icons=true&theme=radical)
+
 <br>
 <h2 align="center">  💗Research Projects💗
 
-<a href="https://github.com/uvipen/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/laitoanthang/KHDL-PythonForDS">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
@@ -125,3 +128,5 @@ I'm still improving my knowledge every day as well as my practical skills for da
   <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
 </a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitoanthang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
