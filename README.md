@@ -30,9 +30,10 @@ I'm still improving my knowledge every day as well as my practical skills for da
   </a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://user-images.githubusercontent.com/89634616/208962696-e93b34a7-7b12-4e08-9c91-06eabd7d5fa6.png" width="200" height="150"/>
-</a>
+</a> -->
+<!-- Use code for issues and img -->
 
 <br>
 
@@ -127,6 +128,3 @@ I'm still improving my knowledge every day as well as my practical skills for da
 <a href="#" target="_blank">
   <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laitoanthang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
