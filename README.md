@@ -14,7 +14,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
 
 📫 How to reach me: **laitoanthang219@gmai.com**
 <br>
-📄 Know about my experiences: [https://www.linkedin.com/in/thang-lai-b77980220/](https://www.linkedin.com/in/votiendung/overlay/1635464862668/single-media-viewer/)
+📄 Know about my experiences: [https://www.linkedin.com/in/laitoanthang/](https://www.linkedin.com/in/laitoanthang/overlay/1635514338975/single-media-viewer/?profileId=ACoAADesOosB1iSlLPe1zEjLBIRPDp0PvhErM7k)
 
 <h2 align="center"> 
 
@@ -27,7 +27,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
   <a href="https://www.youtube.com/@laitoanthang4697/featured" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="laitoanthang-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/thang-lai-b77980220/" target="blank">
+  <a href="https://www.linkedin.com/in/laitoanthang/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thanglai-linkedin" />
   </a>
   <a href="https://www.instagram.com/thang_dumbest/" target="blank">
