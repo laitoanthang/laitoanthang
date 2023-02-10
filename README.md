@@ -116,12 +116,10 @@ I'm still improving my knowledge every day as well as my practical skills for da
   <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
 </a>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laitoanthang&show_icons=true&locale=en&layout=compact&theme=radical&hide=HTML,Jupyter%20Notebook" alt="laitoanthang" /></p>
-
-<br>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laitoanthang&show_icons=true&theme=radical)
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laitoanthang&show_icons=true&locale=en&layout=compact&theme=radical" alt="laitoanthang" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=laitoanthang&icon=0&color=2)](https://visitcount.itsvg.in)
