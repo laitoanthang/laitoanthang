@@ -24,7 +24,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
 📫 **Connect to me:**
 <br>
 <div align="center">
-  <a href="https://www.facebook.com/laitoanthang.terry" target="blank">
+  <a href="https://www.facebook.com/thanglai.terry" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanglai-facebook" />
   </a>
   <a href="https://www.youtube.com/@laitoanthang4697/featured" target="blank">
@@ -86,6 +86,9 @@ I'm still improving my knowledge every day as well as my practical skills for da
 <h2 align="center">  💗Research Projects💗
 
 <br>
+<a href="https://github.com/laitoanthang/HCM-House-Predict">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laitoanthang&repo=HCM-House-Predict&theme=cobalt" />
+</a>   
 <a href="https://github.com/laitoanthang/KHDL-PythonForDS">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laitoanthang&repo=KHDL-PythonForDS&theme=dracula" />
 </a>    
@@ -103,6 +106,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laitoanthang&repo=Birthday_Gift&theme=radical" />
 </a>
+
 
 
 
