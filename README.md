@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="thanglaids.svg" width="1200" alt="thanglai-official" />
+  <img src="thanglaids.svg" width="1200" alt="FROM THANGLAI WITH LOVEEE" />
 </a>
 
 
@@ -113,7 +113,7 @@ I'm still improving my knowledge every day as well as my practical skills for da
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <a href="#" target="_blank">
-  <img src="thanglaids-quotes.svg" width="846" height="150" alt="thanglai-official" />
+  <img src="thanglaids-quotes.svg" width="846" height="150" alt="FROM THANGLAI WITH LOVEEE" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laitoanthang&show_icons=true&theme=radical)
